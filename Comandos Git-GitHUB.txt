@@ -1,0 +1,12 @@
+git unit exemplopasta (Criação da pasta)
+git add exemplo.html  (Adicionar no git)
+git status            (status do git)
+git commit -m "exemplo" (adicionar commit ao git)
+git log --oneline (mostrar todos os commits)
+
+Git HUB
+
+git remote add origin http://exemplosite (vincula o codigo ao site github)
+git push -u origin master (envia as alteração ao site)
+git pull (salva as alteração no seu pc)
+git clone http://exemplosite (baixa o cod do site)
